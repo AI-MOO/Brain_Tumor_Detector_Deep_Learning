@@ -48,4 +48,3 @@ There are two pre-trained models in this repo :
 * [KNOWLEDGE DOCTOR on Youtube](https://www.youtube.com/watch?v=pp61TbhJOTg&list=PLWyN7K28ZraStL8fr0eQmr6VwAiahQStd&index=2)
 
 
-
