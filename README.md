@@ -38,7 +38,7 @@ There are two pre-trained models in this repo :
     * [Brain Tumor Detection Download Link](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
 
     * Extract the images in `datasets` folder
-
+ 
     * `pip install -r requirements.txt`
 2. to train your custom model use `main_train.py` module 
 
